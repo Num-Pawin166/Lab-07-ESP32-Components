@@ -1,0 +1,5 @@
+# บังคับให้ใช้ LF สำหรับ text files ทุกไฟล์
+* text=auto eol=lf
+
+# หรือเฉพาะ .gitattributes
+.gitattributes text eol=lf
